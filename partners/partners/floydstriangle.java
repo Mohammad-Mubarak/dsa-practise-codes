@@ -1,3 +1,4 @@
+package partners;
 public class floydstriangle {
     /*
 

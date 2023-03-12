@@ -1,3 +1,4 @@
+package partners;
 public class rombus {
     public static void main(String[] args) {
            /*
